@@ -1,0 +1,45 @@
+.header {
+    background: url(../img/back.jpg) no-repeat center top;
+}
+.header__about {
+    padding-bottom: 200px;
+}
+.header_img {
+    display: inline;
+    vertical-align: top;
+    margin-left: 10px;
+
+}
+.header_img img{
+    margin-top: 20px;
+}
+.header_about_text {
+    display: inline-block;
+    font-size: 17px;
+}
+.header_fio {
+    color: white;
+}
+.header_gr {
+    color: white;
+}
+.header_spec{
+    color: white;
+}
+.contact{
+    color: white;
+    margin-left: 10px;
+}
+.wrapper {
+    color: white;
+    margin-top: 200px;
+    text-align: center;
+}
+.wrapper__subtitle {
+}
+.wrapper_head {
+    font-size: 35px;
+}
+.about {
+    font-size: 17px;
+}
